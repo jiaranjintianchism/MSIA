@@ -10,7 +10,7 @@ Multilevel Semantic Interaction Alignment for Video–Text Cross-Modal Retrieval
 1. Create conda env `conda env create`
 
 2. Create data / experiment folders `mkdir data; mkdir exps`, note this can just be a symlink to where you want to store big data.
-3. Data download pleas refer to CLIP4CLIP (https://github.com/ArrowLuo/CLIP4Clip)
+3. Data download please refer to CLIP4CLIP (https://github.com/ArrowLuo/CLIP4Clip)
 
 
 ## 🙏 Acknowledgements
