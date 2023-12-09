@@ -3,7 +3,7 @@
 
 Multilevel Semantic Interaction Alignment for Video–Text Cross-Modal Retrieval
 
-# Core code is coming 
+# code is coming 
 
 ### Preparation 
 
